@@ -3,7 +3,7 @@
 
 SELECT
     a.nome,
-    a.sobrenome,
+    a.apelido,
     g.ano,
     count(*)
 FROM aluno a

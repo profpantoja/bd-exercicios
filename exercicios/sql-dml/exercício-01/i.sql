@@ -4,7 +4,7 @@
 SELECT
     c.nome,
     a.nome,
-    a.sobrenome
+    a.apelido
 FROM curso c
     INNER JOIN grade g ON (g.idCurso = c.idCurso)
     INNER JOIN aluno_grade ag ON (ag.idGrade = g.idGrade)
