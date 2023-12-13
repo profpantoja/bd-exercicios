@@ -2,4 +2,4 @@
 
 SELECT * 
 FROM aluno
-WHERE sobrenome = "Santos"
+WHERE apelido = "Santos"
