@@ -1,0 +1,10 @@
+-- Respostas Exercicio 05- Prova Banco de Dados
+
+São 3 as fases do Projeto de Banco de dados, são elas: 
+- ANÁLISE DE REQUISITOS: O primeiro passo para criação do modelo corrreto é entender a necessidade. Para isso temos que realizar uma análise de requisitos, a partir de atividades como entrevistas e reuniões, para discutir os processos que serão controlados pelo sistema e desenhar um modelo fiel que atenda as espectativas do interessado. É nesse modelo que também é desenhado o que chamamos de minimundo.
+
+-PROJETO CONCEITUAL: nesta fase é construido o modelo conceitual, na forma de um diagrama de entidade relacionamento. Este modelo captura as necessidades da organização em termos de armazenamento de dados de forma independente de implementação.
+
+-PROJETO LÓGICO: nesta etapa, o modelo conceitual é transformado em um modelo lógico. O modelo lógico define como banco de dados será implementado em um SGBD específico.
+
+-PROJETO FÍSICO: Nesta etapa, o modelo do banco de dados é enriquecido com detalhes que influenciam no desenpenho da base de dados, mas não intefere em sua funcionalidade. O modelo físico estabelece uma relação de concordância com o banco de dados.
